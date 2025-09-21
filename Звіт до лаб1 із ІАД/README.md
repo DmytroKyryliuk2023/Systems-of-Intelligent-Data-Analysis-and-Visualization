@@ -1,2 +1,0 @@
-<h2>Lab1</h2>
-This directory contains the first laboratory work for the course "Intelligent Data Analysis and Visualization Systems." It focuses on the basics of data preprocessing, including data cleaning, transformation, and initial exploratory data analysis. Students are introduced to tools and techniques for preparing data for further analysis.
