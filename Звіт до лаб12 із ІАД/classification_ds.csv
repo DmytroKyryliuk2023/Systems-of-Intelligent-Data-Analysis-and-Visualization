@@ -1,0 +1,16 @@
+No;Feature 1;Feature 2;Feature 3;Result
+1;Red;Small;Yes;Class A
+2;Blue;Large;No;Class B
+3;Green;Medium;Yes;Class A
+4;Red;Large;Yes;Class B
+5;Blue;Small;No;Class A
+6;Green;Large;Yes;Class B
+7;Red;Medium;No;Class A
+8;Blue;Large;No;Class A
+9;Green;Small;Yes;Class B
+10;Red;Large;No;Class A
+11;Blue;Medium;Yes;Class B
+12;Green;Medium;No;Class A
+13;Red;Small;Yes;Class B
+14;Blue;Small;No;Class A
+15;Green;Large;Yes;Class B

@@ -1,0 +1,24 @@
+@relation classification_ds
+
+@attribute No numeric
+@attribute Feature1 {Red,Blue,Green}
+@attribute Feature2 {Small,Medium,Large}
+@attribute Feature3 {Yes,No}
+@attribute Result {ClassA,ClassB}
+
+@data
+1,Red,Small,Yes,ClassA
+2,Blue,Large,No,ClassB
+3,Green,Medium,Yes,ClassA
+4,Red,Large,Yes,ClassB
+5,Blue,Small,No,ClassA
+6,Green,Large,Yes,ClassB
+7,Red,Medium,No,ClassA
+8,Blue,Large,No,ClassA
+9,Green,Small,Yes,ClassB
+10,Red,Large,No,ClassA
+11,Blue,Medium,Yes,ClassB
+12,Green,Medium,No,ClassA
+13,Red,Small,Yes,ClassB
+14,Blue,Small,No,ClassA
+15,Green,Large,Yes,ClassB
